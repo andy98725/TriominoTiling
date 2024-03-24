@@ -1,5 +1,10 @@
 # Triomino Tiling
 
+![board-small](imgs/1.png)
+![board-med](imgs/2.png)
+![board-large](imgs/3.png)
+![board-huge](imgs/4.png)
+
 ## Concept
 
 Given a 2^n by 2^n board, the whole board can be filled by Triominos (3 square L pieces) with any single square missing.
